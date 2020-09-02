@@ -1,5 +1,5 @@
 ### vs-next
-> 基于vite的一套pc amdin项目
+> 基于vite的一套pc admin项目
 
 1. 启动
     ```javascript
